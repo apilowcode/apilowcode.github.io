@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrud=self.webpackChunkcrud||[]).push([["13"],{8070(e){e.exports=JSON.parse('{"metadata":{"permalink":"/crud/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
